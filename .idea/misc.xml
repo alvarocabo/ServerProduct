@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_favoritos.xml" value="0.3546875" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_formulario_add_products.xml" value="0.2359375" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_main.xml" value="0.14698162729658792" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_update_products.xml" value="0.22324159021406728" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_ver_favoritos.xml" value="0.3546875" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/activity_view_products.xml" value="0.3546875" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/fav_checkbox.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/foto.xml" value="0.2" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/producto_lista.xml" value="0.40370370370370373" />
+        <entry key="..\:/Users/alvar/Documents/Trabajos nicolas/ServerProduct2/app/src/main/res/layout/prueba.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
